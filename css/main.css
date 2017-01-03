@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: #66aaaa;
+  color: green;
+  font-family: fantasy;
+}
+
+a {
+  margin: 10px;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  margin: 20px;
+}
